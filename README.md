@@ -1,5 +1,5 @@
 # Operativka
-Initial storage space for all scriots and bulshit we will come up with in the training sessions
+Initial storage space for all scripts and bulshit we will come up with in the training sessions
 
 
 ## Wishlist

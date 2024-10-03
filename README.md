@@ -3,7 +3,7 @@ Initial storage space for all scripts and bulshit we will come up with in the tr
 
 
 ## Wishlist
-Here's a wishlist of features and improvements for future versions:
+Add here topics to cover on the sessions and we can prioritize them and mark as done
 
 - [ ] Git repository set up
 - [ ] IDEs setup

@@ -11,6 +11,7 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
   - [ ] Other quality checks
   - [ ] Tests
 - [ ] IDEs setup
+- [ ] DBT
 - [ ] AWS EC2 instance
 - [ ] AWS free tier databases
 - [ ] Install AirFlow server on a EC2 and link to a repository

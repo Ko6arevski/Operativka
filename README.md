@@ -23,6 +23,7 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
   - [ ] AWS Redshift
   - [ ] AWS Sagemaker
   - [ ] AWS QuickSight
+- [ ] Streamlit
 - [ ] Install AirFlow server on a EC2 and link to a repository
 - [ ] Spin up and RDS and use as DB for Airflow
 - [ ] Add Git precomit checks

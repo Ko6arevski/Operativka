@@ -5,7 +5,7 @@ Initial storage space for all scripts and bulshit we will come up with in the tr
 ## Wishlist
 Add here topics to cover on the sessions and we can prioritize them and mark as done
 
-- [ ] Git repository set up
+- [x] Git repository set up
 - [ ] CI/CD
   - [ ] Linters
   - [ ] Other quality checks

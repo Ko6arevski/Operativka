@@ -12,8 +12,9 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
   - [ ] Tests
 - [ ] IDEs setup
 - [ ] DBT
-- [ ] AWS EC2 instance
-- [ ] AWS free tier databases
+- [ ] AWS
+  - [ ] AWS EC2 instance
+  - [ ] AWS free tier databases
 - [ ] Install AirFlow server on a EC2 and link to a repository
 - [ ] Spin up and RDS and use as DB for Airflow
 - [ ] Add Git precomit checks

@@ -14,7 +14,15 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
 - [ ] DBT
 - [ ] AWS
   - [ ] AWS EC2 instance
-  - [ ] AWS free tier databases
+  - [ ] AWS free tier databases (RDS)
+  - [ ] AWS S3
+  - [ ] AWS Lambda
+  - [ ] AWS Glue
+  - [ ] AWS Athena
+  - [ ] AWS Kinesis
+  - [ ] AWS Redshift
+  - [ ] AWS Sagemaker
+  - [ ] AWS QuickSight
 - [ ] Install AirFlow server on a EC2 and link to a repository
 - [ ] Spin up and RDS and use as DB for Airflow
 - [ ] Add Git precomit checks

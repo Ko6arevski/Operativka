@@ -1,4 +1,4 @@
-# Operativka промяна за тест 223a
+# Operativka
 Initial storage space for all scripts and bulshit we will come up with in the training sessions
 
 

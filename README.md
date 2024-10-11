@@ -1,4 +1,4 @@
-# Operativka
+# Operativka промяна за тест 2
 Initial storage space for all scripts and bulshit we will come up with in the training sessions
 
 

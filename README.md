@@ -42,3 +42,14 @@ wsl --install
 # Clone the repository
 git clone https://github.com/Ko6arevski/Operativka.git
 ```
+
+## project ideas
+
+### imot.bg pricing live feed and analysis
+- check for API or scraping is the only way
+- bulk load and then incremental fill
+- delete/update logic
+- maybe plimit to a single area
+- transform and store
+- imement checks for average market prices, same property price updates, undervalued/overvalued
+- automated newsletter and alerts

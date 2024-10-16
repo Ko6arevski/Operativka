@@ -43,5 +43,5 @@ Everithing is based on the youtube video [Getting Started With AWS Cloud | Step-
 4. Create new security group or select an existing one (new works before we set up anything) and allow SSH from anywhere
 5. Launch the instance. It should be available in the list. Select it and go to actions/connect to get the connection instructions
     - You can use the EC2 Instance Connect (browser-based SSH connection) or use the SSH client.
-    - The SSH comand should look like this ```ssh -i "your_key.pem" ec2-user@ec2-instance-id.eu-north-1.compute.amazonaws.com"
+    - The SSH comand should look like this ```ssh -i "your_key.pem" ec2-user@ec2-instance-id.eu-north-1.compute.amazonaws.com"```
 6. Terminate by selecting the instance from the list and clicking on "Instance state/Terminate (delete) instances"

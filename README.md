@@ -31,6 +31,7 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
 - [ ] Create a container environment that can run Airflow
 - [ ] Use the container environment on the EC2 with a pipeline
 - [ ] Apache Supoerset - https://superset.apache.org/ (Open source reporting solution)
+- [ ] [Ansible](https://www.ansible.com/)
 
 
 ```PowerShell

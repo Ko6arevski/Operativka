@@ -1,6 +1,19 @@
 # Operativka
 Initial storage space for all scripts and bulshit we will come up with in the training sessions
 
+## Structure
+```bash
+ tree -L 2
+ 
+.
+├── CLI FUs
+│   └── git_commands.md
+├── Hr_test_key.pem
+├── Hristo_accessKeys.csv
+├── README.md
+└── aws_setup
+    └── step-by-step_procedure.md
+```
 
 ## Wishlist
 Add here topics to cover on the sessions and we can prioritize them and mark as done
@@ -13,7 +26,7 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
 - [ ] IDEs setup
 - [ ] DBT
 - [ ] AWS
-  - [ ] AWS EC2 instance
+  - [x] AWS EC2 instance
   - [ ] AWS free tier databases (RDS)
   - [ ] AWS S3
   - [ ] AWS Lambda

@@ -59,6 +59,15 @@ git clone https://github.com/Ko6arevski/Operativka.git
 
 ## project ideas
 
+### Daily exchange rates 
+- We can use the central bank's API to pull the data
+- Scheduling can be done with a cron job on a machine (EC2 or on-prem)
+- We can use Kafka to "stream" the data even if we dont need to :D
+- We can look to spin up an RDS to store the data
+- We can use lambdas to explore serverless processing
+- We can look into glue if we want to add some more actions
+- We can start building on it with demographics data from Eurostat or other source
+
 ### imot.bg pricing live feed and analysis
 - check for API or scraping is the only way
 - bulk load and then incremental fill

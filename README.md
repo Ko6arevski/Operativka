@@ -19,16 +19,17 @@ Initial storage space for all scripts and bulshit we will come up with in the tr
 Add here topics to cover on the sessions and we can prioritize them and mark as done
 
 - [x] Git repository set up
-- [ ] CI/CD
+- [ ] CI/CD (GitHub pipelines)
   - [ ] Linters
+  - [ ] Add Git precomit checks
   - [ ] Other quality checks
   - [ ] Tests
 - [ ] IDEs setup
 - [ ] DBT
 - [ ] AWS
   - [x] AWS EC2 instance
-  - [ ] AWS free tier databases (RDS)
-  - [ ] AWS S3
+  - [x] AWS free tier databases (RDS)
+  - [x] AWS S3
   - [ ] AWS Lambda
   - [ ] AWS Glue
   - [ ] AWS Athena
@@ -38,12 +39,9 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
   - [ ] AWS QuickSight
 - [ ] Streamlit
 - [ ] Install AirFlow server on a EC2 and link to a repository
-- [ ] Spin up and RDS and use as DB for Airflow
-- [ ] Add Git precomit checks
-- [ ] Look into GitHub pipelines and CI/CD setup
 - [ ] Create a container environment that can run Airflow
 - [ ] Use the container environment on the EC2 with a pipeline
-- [ ] Apache Supoerset - https://superset.apache.org/ (Open source reporting solution)
+- [ ] Apache Superset - https://superset.apache.org/ (Open source reporting solution)
 - [ ] [Ansible](https://www.ansible.com/)
 
 

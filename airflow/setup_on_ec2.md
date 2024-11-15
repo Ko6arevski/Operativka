@@ -146,7 +146,7 @@ After launching your EC2 instance, connect to it (in aws)
 Use below dag code as a test. make sure to mkdir dag folder and then put this .py script in there!
 
 ```python
-from airflow import DAG
+from airflow import dags
 from airflow.operators.dummy_operator import DummyOperator
 from datetime import datetime
 
@@ -156,7 +156,7 @@ default_args = {
     'retries': 1,
 }
 
-dag = DAG(
+dag = dags(
     'test_dag',
     default_args=default_args,
     schedule_interval='@daily',

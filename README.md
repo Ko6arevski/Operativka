@@ -25,7 +25,9 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
   - [ ] Other quality checks
   - [ ] Tests
 - [ ] IDEs setup
-- [ ] DBT
+- [ ] [DBT](https://www.getdbt.com/)
+- [ ] [DataHub](https://datahubproject.io/) ([The github repo](https://github.com/datahub-project/datahub))
+- [ ] [Apache Superset](https://superset.apache.org) (Open source reporting solution)
 - [ ] AWS
   - [x] AWS EC2 instance
   - [x] AWS free tier databases (RDS)
@@ -41,7 +43,6 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
 - [ ] Install AirFlow server on a EC2 and link to a repository
 - [ ] Create a container environment that can run Airflow
 - [ ] Use the container environment on the EC2 with a pipeline
-- [ ] Apache Superset - https://superset.apache.org/ (Open source reporting solution)
 - [ ] [Ansible](https://www.ansible.com/)
 
 

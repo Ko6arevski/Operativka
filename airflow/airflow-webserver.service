@@ -1,0 +1,14 @@
+[Unit]
+Description=Airflow Webserver
+After=network.target
+
+[Service]
+Environment="PATH=/home/ubuntu/venv/bin"
+User=ubuntu
+Group=ubuntu
+ExecStart=/home/ubuntu/venv/bin/airflow webserver
+Restart=always
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target

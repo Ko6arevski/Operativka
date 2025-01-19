@@ -28,6 +28,7 @@ Add here topics to cover on the sessions and we can prioritize them and mark as 
 - [ ] [DBT](https://www.getdbt.com/)
 - [ ] [DataHub](https://datahubproject.io/) ([The github repo](https://github.com/datahub-project/datahub))
 - [ ] [Apache Superset](https://superset.apache.org) (Open source reporting solution)
+- [ ] [Cube.js](https://medium.com/cube-dev/cube-js-the-open-source-dashboard-framework-ultimate-guide-af38bc9955a1)
 - [ ] AWS
   - [x] AWS EC2 instance
   - [x] AWS free tier databases (RDS)
